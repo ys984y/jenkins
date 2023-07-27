@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 def jenkinsfile = "Jenkinsfile"
 
 def HEADER = '''
