@@ -1,6 +1,7 @@
 pipeline {
     agent any 
 
+    parameters { string(name: 'ENV', description: 'enter the value')
     
     stages{
         stage("param1"){
