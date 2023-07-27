@@ -11,7 +11,6 @@ pipelineJob("DemoPipeline") {
 
         stringParam (
             'ENV',
-            'sd',
             'Please input env'
         )
   
